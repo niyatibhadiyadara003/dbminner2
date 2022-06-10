@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Lion",
+    "species": "Wild Animal(mammal)",
+    "description": "Living in the grasslands, scrub, and open woodlands of sub-Saharan Africa, the lion is the second largest cat in the world. It is dwarfed slightly by the tiger, which is closely related and has a very similar body typeUnlike other cats, lions are very social animals. They live in groups, called prides, of around 30 lions. ",
+    "thumbnail": "https://s25.postimg.org/88ypx1fgb/lion_thumbnails.jpg",
+    "image": "assets/images/lion.png"
+  },
+  {
+    "name" : "Monkey",
+    "species": "Placental Mammals",
+    "description": "There are currently 264 known monkey species.Monkeys can be divided into two groups, Old World monkeys that live in Africa and Asia, and New World monkeys that live in South America.A baboon is an example of an Old World monkey, while a marmoset is an example of a New World monkey.",
+    "thumbnail": "https://s25.postimg.org/eqhmgjptn/monkey_thubnail.jpg",
+    "image": "assets/images/monkey.jpg"
+  },{
+  "name" :"Owal",
+  "species":"Bird",
+  "description":"There are around 200 different owl species.Owls are active at night (nocturnal).A group of owls is called a parliament.Most owls hunt insects, small mammals and other birds.Some owl species hunt fish.Owls have powerful talons (claws) which help them catch and kill prey.Owls have large eyes and a flat face.",
+  "thumbnail": "https://s25.postimg.org/hym3tlc3f/owal_thumbnails.jpg",
+  "image": "assets/images/pigon.jpg"
+
+},{
+  "name" :"Peacock",
+  "species":"Bird",
+  "description":"Peacocks are large, colorful pheasants (typically blue and green) known for their iridescent tails. These tail feathers, or coverts, spread out in a distinctive train that is more than 60 percent of the bird’s total body length and boast colorful eye markings of blue, gold, red, and other hues. ",
+  "thumbnail": "https://s25.postimg.org/5y0nsv4or/peacock_thumbnails.jpg",
+  "image": "assets/images/peacock.jpg"
+},{
+  "name" :"Pigeon",
+  "species":"Bird",
+  "description":"Most of our domesticated pigeons have a common ancestor, the Rock Dove pigeon.Racing Homing Pigeons have been clocked flying 92.5 mph average speed on a 400 mile race.Homing Pigeons have been known to fly 700 miles in a day.Pigeons have flown in many wars, including both WWI & WWII.  ",
+  "thumbnail": "https://s25.postimg.org/oev2jokmz/pigeon_thumbnails.jpg",
+  "image": "assets/images/owl.jpg"
+
+},{
+  "name" :"Tortoise",
+  "species": "Reptilia",
+  "description":"A tortoise's shell is made up of 60 different bones all connected to each other The top of a tortoise's shell is called a “carapace” The underside of the shell is called a “plastron” ",
+  "thumbnail": "https://s25.postimg.org/4a63ryg6z/tortoise_thumbnails.jpg",
+  "image": "assets/images/turtle.jpg"
+},{
+  "name" :"Zebra",
+  "species":"Mammal",
+  "description":"Zebra are part of the equidae family along with horse and donkeys.Every zebra has a unique pattern of black and white stripes.There are a number of different theories which attempt to explain zebra’s unique stripes with most relating to camouflage.",
+  "thumbnail": "https://s25.postimg.org/qnduerh4r/zebra_thumbnails.jpg",
+  "image": "assets/images/zebra1.jpg"
+}
+]

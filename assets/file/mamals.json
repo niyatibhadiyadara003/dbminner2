@@ -1,0 +1,69 @@
+[
+
+  {
+    "id": 1,
+    "name": "tiger",
+    "description": "With less than 3,900 tigers left in the wild, we need to focus on more impactful ways to tackle the trafficking of tiger parts and products.",
+    "image": "assets/images/tiger.png"
+
+  },
+
+  {
+    "id":2,
+    "name": "turtle",
+    "description": "turtle, (order Testudines), any reptile with a body encased in a bony shell, including tortoises. Although numerous animals, from invertebrates to mammals, have evolved shells, none has an architecture like that of turtles.",
+    "thumbnail": "",
+    "image": "assets/images/turtle.jpg"
+  },
+
+  {
+    "id": 3,
+    "name": "dog",
+    "description": "The dog is a pet animal. A dog has sharp teeth so that it can eat flesh very easily, it has four legs, two ears, two eyes, a tail, a mouth, and a nose.",
+    "thumbnail": "",
+    "image": "assets/images/dog.png"
+  },
+
+  {
+    "id": 4,
+    "name": "cat",
+    "description": "A cat is a furry animal that has a long tail and sharp claws. Cats are often kept as pets. Cats are lions, tigers, and other wild animals in the same family.",
+    "thumbnail": "",
+    "image": "assets/images/cat.jpg"
+
+  },
+
+  {
+    "id": 5,
+    "name": "lion",
+    "description": "Lions have strong, compact bodies and powerful forelegs, teeth and jaws for pulling down and killing prey. Their coats are yellow-gold, and adult males have shaggy manes that range in color from blond to reddish-brown to black.",
+    "thumbnail": "",
+    "image": "assets/images/lion.png"
+
+  },
+
+  {
+    "id": 6,
+    "name": "elephant",
+    "description": "elephant, (family Elephantidae), largest living land animal, characterized by its long trunk (elongated upper lip and nose), columnar legs, and huge head with temporal glands and wide, flat ears. ",
+    "thumbnail": "",
+    "image": "assets/images/elephant.png"
+
+  },
+
+  {
+    "id": 7,
+    "name": "crocodile",
+    "description": "Crocodiles have powerful jaws with many conical teeth and short legs with clawed webbed toes. They share a unique body form that allows the eyes, ears, and nostrils to be above the water surface while most of the animal is hidden below.",
+    "thumbnail": "",
+    "image": "assets/images/crocodile.jpg"
+  },
+
+  {
+    "id": 8,
+    "name": "fox",
+    "description": "Red foxes have long snouts and red fur across the face, back, sides, and tail. Their throat, chin, and belly are grayish-white.",
+    "image": "assets/images/fox.jpg"
+  }
+
+]
